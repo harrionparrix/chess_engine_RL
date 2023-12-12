@@ -1,0 +1,14 @@
+Pieces - 7
+Blank
+Pawn
+Knight
+Bishop
+Rook
+Queen
+King
+
+Castle
+En Passant
+
+(not counting the blank and pawns, next move)
+8x8x4 + 1 =  257 bits (vector of 0 or 1)
